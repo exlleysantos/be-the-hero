@@ -13,7 +13,7 @@ npm install
 npm start
 ```
 
-### em ambas as pastas.
+em ambas as pastas.
 
 
 
